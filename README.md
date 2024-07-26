@@ -12,7 +12,7 @@ To solve this kind of problems there is a classic algorithm called BFS. BFS sear
 
 To run the app in local, follow these steps:
 
-1. Clone this repository using `git clone https://github.com/Manu146/water-jug-challenge` or the **Clone repo** button.
+1. Clone this repository using `git clone https://github.com/Manu146/water-jug-challenge.git` or the **Clone repo** button.
 
 2. Navigate to the cloned repo using a terminal (bash, cmd, powershell).
 
